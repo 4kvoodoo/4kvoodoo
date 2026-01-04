@@ -1,3 +1,3 @@
-## My profile in github 👋
+# My profile in github 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=4kvoodoo&stroke=COLOR)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=4kvoodoo&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
